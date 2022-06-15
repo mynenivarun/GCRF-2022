@@ -1,0 +1,99 @@
+Enter your Google Cloud Public Profile URL : https://www.cloudskillsboost.google/public_profiles/9a7ab1cc-3773-4dd9-805a-086cb727681f
+
+ Profile Name : Myneni Varun
+
+ Total Completed Quests/Badges
+1 Data Engineering
+2 Applied Data: Blockchain
+3 IoT in the Google Cloud
+4 Baseline: Deploy & Develop
+5 NCAA® March Madness®: Bracketology with Google Cloud
+6 BigQuery for Marketing Analysts
+7 BigQuery for Machine Learning
+8 BigQuery Basics for Data Analysts
+9 Google Cloud Run Serverless Workshop
+10 Build Apps & Websites with Firebase
+11 Workspace: Add-ons
+12 Exploring APIs
+13 Website on Google Cloud
+14 Cloud Development
+15 OK Google: Build Interactive Apps with Google Assistant
+16 Google Developer Essentials
+17 Cloud Architecture: Design, Implement, and Manage
+18 Set Up and Configure a Cloud Environment in Google Cloud
+19 Monitor and Log with Google Cloud Operations Suite
+20 Implement DevOps in Google Cloud
+21 Deploy to Kubernetes in Google Cloud
+22 Build and Secure Networks in Google Cloud
+23 Perform Foundational Infrastructure Tasks in Google Cloud
+24 Create and Manage Cloud Resources
+25 Google Cloud Solutions I: Scaling Your Infrastructure
+26 Google Cloud's Operations Suite
+27 Cloud Architecture
+28 Understanding Your Google Cloud Costs
+29 DevOps Essentials
+30 Cloud Engineering
+31 Kubernetes in Google Cloud
+32 Networking in Google Cloud
+33 Baseline: Infrastructure
+34 Google Cloud Essentials
+
+ Completed Quests
+1 Data Engineering
+2 Applied Data: Blockchain
+3 IoT in the Google Cloud
+4 Baseline: Deploy & Develop
+5 NCAA® March Madness®: Bracketology with Google Cloud
+6 BigQuery for Marketing Analysts
+7 BigQuery for Machine Learning
+8 BigQuery Basics for Data Analysts
+9 Google Cloud Run Serverless Workshop
+10 Build Apps & Websites with Firebase
+11 Workspace: Add-ons
+12 Exploring APIs
+13 Website on Google Cloud
+14 Cloud Development
+15 OK Google: Build Interactive Apps with Google Assistant
+16 Google Developer Essentials
+17 Google Cloud Solutions I: Scaling Your Infrastructure
+18 Google Cloud's Operations Suite
+19 Cloud Architecture
+20 Understanding Your Google Cloud Costs
+21 DevOps Essentials
+22 Cloud Engineering
+23 Kubernetes in Google Cloud
+24 Networking in Google Cloud
+25 Baseline: Infrastructure
+26 Google Cloud Essentials
+
+ Completed Skill Badges
+1 Cloud Architecture: Design, Implement, and Manage
+2 Set Up and Configure a Cloud Environment in Google Cloud
+3 Monitor and Log with Google Cloud Operations Suite
+4 Implement DevOps in Google Cloud
+5 Deploy to Kubernetes in Google Cloud
+6 Build and Secure Networks in Google Cloud
+7 Perform Foundational Infrastructure Tasks in Google Cloud
+8 Create and Manage Cloud Resources
+
+Milestone Progress
+
+
+Milestone #1 Completed(10 Quests & 5 Skill Badges)
+
+Prizes : Shirt, Buttuon Badge, Pen, Stickers
+
+Milestone #2 NOT-Completed(20 Quests & 10 Skill Badges)
+Progress  Quests : -6 Left   Badges : 2 Left
+
+Milestone #3 NOT-Completed(30 Quests & 15 Skill Badges)
+Progress  Quests : 4 Left   Badges : 7 Left
+
+Milestone #4 NOT-Completed(40 Quests & 20 Skill Badges)
+Progress  Quests : 14 Left   Badges : 12 Left
+
+Progress : 34/60 ==> 56.666666666666664%
+Quests : 26/40
+Badges : 8/20
+14 Left To Complete All Quests
+12 Left TO Complete All Skill Badges
