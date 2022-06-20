@@ -55,6 +55,10 @@ def m1():
     else:
         q = 10-q_cnt
         b = 5-b_cnt
+        if q < 0:
+            q = 0
+        if b < 0:
+            b = 0
         print("\nMilestone #1 NOT-Completed(10 Quests & 5 Skill Badges)")
         print(f'Progress  Quests : {q}/10   Badges : {b}/5')
 
@@ -65,6 +69,10 @@ def m2():
     else:
         q = 20-q_cnt
         b = 10-b_cnt
+        if q < 0:
+            q = 0
+        if b < 0:
+            b = 0
         print("\nMilestone #2 NOT-Completed(20 Quests & 10 Skill Badges)")
         print(f'Progress  Quests : {q} Left   Badges : {b} Left')
 def m3():
@@ -74,6 +82,10 @@ def m3():
     else:
         q = 30-q_cnt
         b = 15-b_cnt
+        if q < 0:
+            q = 0
+        if b < 0:
+            b = 0
         print("\nMilestone #3 NOT-Completed(30 Quests & 15 Skill Badges)")
         print(f'Progress  Quests : {q} Left   Badges : {b} Left')
 def m4():
@@ -83,11 +95,19 @@ def m4():
     else:
         q = 40-q_cnt
         b = 20-b_cnt
+        if q < 0:
+            q = 0
+        if b < 0:
+            b = 0
         print("\nMilestone #4 NOT-Completed(40 Quests & 20 Skill Badges)")
         print(f'Progress  Quests : {q} Left   Badges : {b} Left')
 def progess():
     q = 40-q_cnt
     b = 20-b_cnt
+    if q < 0:
+        q = 0
+    if b < 0:
+        b = 0
     per = (cnt/60)*100
     print(f'\nProgress : {cnt}/60 ==> {per}%')
     print(f'Quests : {q_cnt}/40')
