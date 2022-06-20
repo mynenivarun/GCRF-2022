@@ -6,7 +6,7 @@ url = input("\n Enter your Google Cloud Public Profile URL : ")
 
 quests = ["Google Cloud Essentials","Baseline: Infrastructure","Networking in Google Cloud ","Kubernetes in Google Cloud","Cloud Engineering","DevOps Essentials","Understanding Your Google Cloud Costs","Google Cloud Solutions I: Scaling Your Infrastructure","Cloud Architecture","Google Cloud's Operations Suite","Google Developer Essentials","OK Google: Build Interactive Apps with Google Assistant","Cloud Development","Website on Google Cloud","Baseline: Deploy & Develop","Exploring APIs","IoT in the Google Cloud","Workspace: Add-ons","Build Apps & Websites with Firebase","Google Cloud Run Serverless Workshop","BigQuery Basics for Data Analysts","BigQuery for Machine Learning","BigQuery for Marketing Analysts","NCAA® March Madness®: Bracketology with Google Cloud","Applied Data: Blockchain","Data Engineering","Cloud SQL","BigQuery for Data Warehousing","Scientific Data Processing","Google Cloud Solutions II: Data and Machine Learning","Baseline: Data, ML, AI","Intro to ML: Language Processing","Intro to ML: Image Processing","Machine Learning APIs","Intermediate ML: TensorFlow on Google Cloud","Advanced ML: ML Infrastructure","Cloud Logging","Security & Identity Fundamentals","Security & Identity Fundamentals","Cloud Healthcare API"]
 
-badges = ['Create and Manage Cloud Resources','Perform Foundational Infrastructure Tasks in Google Cloud','Build and Secure Networks in Google Cloud','Deploy to Kubernetes in Google Cloud','Set Up and Configure a Cloud Environment in Google Cloud','Cloud Architecture: Design, Implement, and Manage','Implement DevOps in Google Cloud','Monitor and Log with Google Cloud Operations Suite','Build Interactive Apps with Google Assistant','Build a Website on Google Cloud','Serverless Firebase Development','Serverless Cloud Run Development','Insights from Data with BigQuery','Insights from Data with BigQuery','Insights from Data with BigQuery','Perform Foundational Data, ML, and AI Tasks in Google Cloud','Integrate with Machine Learning APIs','Ensure Access & Identity in Google Cloud','Secure Workloads in Google Kubernetes Engine']
+badges = ['Create and Manage Cloud Resources','Perform Foundational Infrastructure Tasks in Google Cloud','Build and Secure Networks in Google Cloud','Deploy to Kubernetes in Google Cloud','Set Up and Configure a Cloud Environment in Google Cloud','Cloud Architecture: Design, Implement, and Manage','Implement DevOps in Google Cloud','Monitor and Log with Google Cloud Operations Suite','Build Interactive Apps with Google Assistant','Build a Website on Google Cloud','Serverless Firebase Development','Serverless Cloud Run Development','Insights from Data with BigQuery','Create ML Models with BigQuery ML','Engineer Data in Google Cloud','Build and Optimize Data Warehouses with BigQuery','Perform Foundational Data, ML, and AI Tasks in Google Cloud','Integrate with Machine Learning APIs','Ensure Access & Identity in Google Cloud','Secure Workloads in Google Kubernetes Engine']
 
 q_completed = []
 b_completed = []
@@ -96,7 +96,7 @@ def progess():
     print(f'{b} Left TO Complete All Skill Badges')
     
 
-print('\nMilestone Progress \n')
+print('\nMilestone Progress')
 m1()
 m2()
 m3()
